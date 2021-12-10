@@ -4,4 +4,4 @@ This is a stub README ....
 
 Deploy using CDK Typescript
 
-Binary golang lambda payload built from https://github.com/christianjallen/aws-lambda-barcode-generator
+Binary golang lambda payload built from https://github.com/allendotcx/aws-lambda-barcode-generator
